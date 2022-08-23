@@ -16,4 +16,4 @@
  
  ## Screenshot ##
  
- ![picture](./assets/Screenshot.png)
+ ![picture](./assets/screenshot.png)
